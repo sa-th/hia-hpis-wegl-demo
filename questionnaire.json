@@ -1,0 +1,482 @@
+{
+  "_id": 5,
+  "_title": "Shoulder Evaluation",
+  "_qCards": [
+    {
+      "_id": 0,
+      "_question": "Referring Physician:",
+      "_instruction": "",
+      "_userResponseType": 1,
+      "_options": []
+    },
+    {
+      "_id": 1,
+      "_question": "Primary Care Physician:",
+      "_instruction": "",
+      "_userResponseType": 1,
+      "_options": []
+    },
+    {
+      "_id": 2,
+      "_question": "Name a favorite hobby:",
+      "_instruction": "",
+      "_userResponseType": 1,
+      "_options": []
+    },
+    {
+      "_id": 3,
+      "_question": "Which shoulder is affected?",
+      "_instruction": "",
+      "_userResponseType": 2,
+      "_options": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "_id": 4,
+      "_question": "Does your shoulder feel unstable?",
+      "_instruction": "",
+      "_userResponseType": 2,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 5,
+      "_question": "Describe how it happened?",
+      "_instruction": "",
+      "_userResponseType": 1,
+      "_options": []
+    },
+    {
+      "_id": 6,
+      "_question": "Describe where you were:",
+      "_instruction": "",
+      "_userResponseType": 1,
+      "_options": []
+    },
+    {
+      "_id": 7,
+      "_question": "",
+      "_instruction": "Please select one of the following.",
+      "_userResponseType": 2,
+      "_options": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "_id": 8,
+      "_question": "Was it an Auto Accident?#@#Were you wearing a seatbelt?",
+      "_instruction": "Please specify.",
+      "_userResponseType": 6,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 9,
+      "_question": "The date the symptom began:",
+      "_instruction": "",
+      "_userResponseType": 8,
+      "_options": []
+    },
+    {
+      "_id": 10,
+      "_question": "On this diagram mark where your pain is:",
+      "_instruction": "",
+      "_userResponseType": 5,
+      "_options": []
+    },
+    {
+      "_id": 11,
+      "_question": "The pain is:",
+      "_instruction": "Select what best applies.",
+      "_userResponseType": 2,
+      "_options": [
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "_id": 12,
+      "_question": "The pain is:",
+      "_instruction": "Select all that applies.",
+      "_userResponseType": 9,
+      "_options": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "_id": 13,
+      "_question": "Associated symptoms:",
+      "_instruction": "Select all that applies.",
+      "_userResponseType": 9,
+      "_options": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "_id": 14,
+      "_question": "When is your pain worse?",
+      "_instruction": "",
+      "_userResponseType": 2,
+      "_options": [
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "_id": 15,
+      "_question": "Is it worse after the activity?",
+      "_instruction": "",
+      "_userResponseType": 2,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 16,
+      "_question": "Have you ever experienced any injury to or symptoms involving this body part in the past?#@#If so please provide details",
+      "_instruction": "Please specify",
+      "_userResponseType": 7,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 17,
+      "_question": "What test have you had regarding this injury?",
+      "_instruction": "",
+      "_userResponseType": 9,
+      "_options": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "_id": 18,
+      "_question": "Have you had any treatment for this problem?",
+      "_instruction": "",
+      "_userResponseType": 9,
+      "_options": [
+        35,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "_id": 19,
+      "_question": "Was any of your treatment effective? Explain:",
+      "_instruction": "",
+      "_userResponseType": 1,
+      "_options": []
+    },
+    {
+      "_id": 20,
+      "_question": "Where did you receive treatment?",
+      "_instruction": "",
+      "_userResponseType": 1,
+      "_options": []
+    },
+    {
+      "_id": 21,
+      "_question": "What is you pain scale today?",
+      "_instruction": "0 = no pain.         10 = worst pain.",
+      "_userResponseType": 11,
+      "_options": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ]
+    },
+    {
+      "_id": 22,
+      "_question": "Put a coat:",
+      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_userResponseType": 12,
+      "_options": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "_id": 23,
+      "_question": "Sleep on your side:",
+      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_userResponseType": 12,
+      "_options": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "_id": 24,
+      "_question": "Wash back/clip bra:",
+      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_userResponseType": 12,
+      "_options": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "_id": 25,
+      "_question": "Manage toileting:",
+      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_userResponseType": 12,
+      "_options": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "_id": 26,
+      "_question": "Comb hair:",
+      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_userResponseType": 12,
+      "_options": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "_id": 27,
+      "_question": "Reach a high shelf",
+      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_userResponseType": 12,
+      "_options": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "_id": 28,
+      "_question": "Lift 10 pounds over shoulder",
+      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_userResponseType": 12,
+      "_options": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "_id": 29,
+      "_question": "Throw a ball overhand",
+      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_userResponseType": 12,
+      "_options": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "_id": 30,
+      "_question": "Do usual work Example",
+      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_userResponseType": 15,
+      "_options": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "_id": 31,
+      "_question": "Do usual work Example",
+      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_userResponseType": 15,
+      "_options": [
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "_id": 32,
+      "_question": "Is your shoulder comfortable with your arm at rest by your side?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 33,
+      "_question": "Does your shoulder allow you to sleep comfortably?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 34,
+      "_question": "Can you reach the small of your back to tuck in your shirt with your hand?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 35,
+      "_question": "Can you place your hand behind your head with the elbow straight out to the side?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 36,
+      "_question": "Can you place a coin on a shelf at the level of your shoulder without bending your elbow?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 37,
+      "_question": "Can you lift 1 pound (one pint contianer) to the level of your shoulder without bending your elbow?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 38,
+      "_question": "Can you lift 8 pound (one gallon of milk) to the level of your shoulder without bending your elbow?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 39,
+      "_question": "Can you carry 20 pounds (a bag of potatoes) at your side?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 40,
+      "_question": "Do you think you can toss a softball under-hand 10 yards?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 41,
+      "_question": "Do you think you can toss a softball over-hand 20 yards?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 42,
+      "_question": "Can you wash the back of the opposite shoulder?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    },
+    {
+      "_id": 43,
+      "_question": "Would your shoulder allow you to work full time at your regualr job?",
+      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_userResponseType": 13,
+      "_options": [
+        4,
+        5
+      ]
+    }
+  ]
+}
