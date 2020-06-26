@@ -60,8 +60,8 @@
     },
     {
       "_id": 7,
-      "_question": "",
-      "_instruction": "Please select one of the following.",
+      "_question": "Please select one of the following.",
+      "_instruction": "",
       "_userResponseType": 2,
       "_options": [
         6,
@@ -152,7 +152,7 @@
     },
     {
       "_id": 15,
-      "_question": "Is it worse after the activity?",
+      "_question": "Is it worse after activity?",
       "_instruction": "",
       "_userResponseType": 2,
       "_options": [
@@ -222,7 +222,7 @@
     {
       "_id": 21,
       "_question": "What is you pain scale today?",
-      "_instruction": "0 = no pain.         10 = worst pain.",
+      "_instruction": "    0 = no pain.                                                                                         10 = worst pain.",
       "_userResponseType": 11,
       "_options": [
         60,
@@ -240,8 +240,8 @@
     },
     {
       "_id": 22,
-      "_question": "Put a coat:",
-      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_question": "Put on a coat:",
+      "_instruction": "Select the options that indicates your ability to do the above mentioned activity.",
       "_userResponseType": 12,
       "_options": [
         54,
@@ -253,7 +253,7 @@
     {
       "_id": 23,
       "_question": "Sleep on your side:",
-      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_instruction": "Select the options that indicates your ability to do the above mentioned activity.",
       "_userResponseType": 12,
       "_options": [
         54,
@@ -265,7 +265,7 @@
     {
       "_id": 24,
       "_question": "Wash back/clip bra:",
-      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_instruction": "Select the options that indicates your ability to do the above mentioned activity.",
       "_userResponseType": 12,
       "_options": [
         54,
@@ -277,7 +277,7 @@
     {
       "_id": 25,
       "_question": "Manage toileting:",
-      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_instruction": "Select the options that indicates your ability to do the above mentioned activity.",
       "_userResponseType": 12,
       "_options": [
         54,
@@ -289,7 +289,7 @@
     {
       "_id": 26,
       "_question": "Comb hair:",
-      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_instruction": "Select the options that indicates your ability to do the above mentioned activity.",
       "_userResponseType": 12,
       "_options": [
         54,
@@ -301,7 +301,7 @@
     {
       "_id": 27,
       "_question": "Reach a high shelf",
-      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_instruction": "Select the options that indicates your ability to do the above mentioned activity.",
       "_userResponseType": 12,
       "_options": [
         54,
@@ -313,7 +313,7 @@
     {
       "_id": 28,
       "_question": "Lift 10 pounds over shoulder",
-      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_instruction": "Select the options that indicates your ability to do the above mentioned activity.",
       "_userResponseType": 12,
       "_options": [
         54,
@@ -325,7 +325,7 @@
     {
       "_id": 29,
       "_question": "Throw a ball overhand",
-      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_instruction": "Select the options that indicates your ability to do the above mentioned activity.",
       "_userResponseType": 12,
       "_options": [
         54,
@@ -336,8 +336,8 @@
     },
     {
       "_id": 30,
-      "_question": "Do usual work Example",
-      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_question": "Do usual work:",
+      "_instruction": "Select the options that indicates your ability to do the above mentioned activity.",
       "_userResponseType": 15,
       "_options": [
         54,
@@ -348,8 +348,8 @@
     },
     {
       "_id": 31,
-      "_question": "Do usual work Example",
-      "_instruction": "Select the options that indicates your ability to do the following activities.",
+      "_question": "Play usual sport:",
+      "_instruction": "Select the options that indicates your ability to do the above mentioned activity.",
       "_userResponseType": 15,
       "_options": [
         54,
@@ -361,7 +361,7 @@
     {
       "_id": 32,
       "_question": "Is your shoulder comfortable with your arm at rest by your side?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -371,7 +371,7 @@
     {
       "_id": 33,
       "_question": "Does your shoulder allow you to sleep comfortably?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -381,7 +381,7 @@
     {
       "_id": 34,
       "_question": "Can you reach the small of your back to tuck in your shirt with your hand?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -391,7 +391,7 @@
     {
       "_id": 35,
       "_question": "Can you place your hand behind your head with the elbow straight out to the side?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -401,7 +401,7 @@
     {
       "_id": 36,
       "_question": "Can you place a coin on a shelf at the level of your shoulder without bending your elbow?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -410,8 +410,8 @@
     },
     {
       "_id": 37,
-      "_question": "Can you lift 1 pound (one pint contianer) to the level of your shoulder without bending your elbow?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_question": "Can you lift 1 pound (one pint container) to the level of your shoulder without bending your elbow?",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -421,7 +421,7 @@
     {
       "_id": 38,
       "_question": "Can you lift 8 pound (one gallon of milk) to the level of your shoulder without bending your elbow?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -431,7 +431,7 @@
     {
       "_id": 39,
       "_question": "Can you carry 20 pounds (a bag of potatoes) at your side?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -441,7 +441,7 @@
     {
       "_id": 40,
       "_question": "Do you think you can toss a softball under-hand 10 yards?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -451,7 +451,7 @@
     {
       "_id": 41,
       "_question": "Do you think you can toss a softball over-hand 20 yards?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -461,7 +461,7 @@
     {
       "_id": 42,
       "_question": "Can you wash the back of the opposite shoulder?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
@@ -470,8 +470,8 @@
     },
     {
       "_id": 43,
-      "_question": "Would your shoulder allow you to work full time at your regualr job?",
-      "_instruction": "Please answer the following questions for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
+      "_question": "Would your shoulder allow you to work full time at your regular job?",
+      "_instruction": "Please answer the above mentioned question for BOTH your AFFECTED and UNAFFECTED shoulder. Please do not leave any question unanswered.",
       "_userResponseType": 13,
       "_options": [
         4,
